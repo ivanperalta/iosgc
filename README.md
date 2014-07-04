@@ -1,8 +1,3 @@
-iosgc
-=====
-
-Garmin Connect Integration from iOS
-
 # ios Garmin Connect
 
 ## Introduction
